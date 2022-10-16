@@ -20,4 +20,4 @@
 Яндекс Практикум
 
 
-ссылку на GitHub Pages
+[Ссылка на проект "Путешествие по России"](https://parakhina-natalya.github.io/russian-travel-by-napar/)
