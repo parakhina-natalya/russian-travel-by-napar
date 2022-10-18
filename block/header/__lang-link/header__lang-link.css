@@ -14,3 +14,7 @@
     line-height: 1.11;
   }
 }
+
+.header__lang-link {
+  opacity: .8;
+}

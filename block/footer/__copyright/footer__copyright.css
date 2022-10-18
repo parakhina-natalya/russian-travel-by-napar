@@ -10,13 +10,6 @@
 
 @media screen and (max-width: 720px) {
   .footer__copyright {
-    text-align: end;
-  }
-}
-
-@media screen and (max-width: 507px) {
-  .footer__copyright {
     line-height: 1;
-    text-align: start;
   }
 }
