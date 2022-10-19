@@ -7,19 +7,6 @@
   font-weight: 900;
 }
 
-
-@media screen and (max-width: 1024px) {
-  .cover__title {
-
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .cover__title {
-
-  }
-}
-
 @media screen and (max-width: 707px) {
   .cover__title {
     font-size: 52px;
@@ -32,11 +19,5 @@
     font-size: 32px;
     line-height: 1.09;
     margin-bottom: 16px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover__title {
-
   }
 }

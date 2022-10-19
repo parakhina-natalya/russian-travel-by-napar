@@ -1,24 +1,29 @@
-.intro__container {
-  max-width: 984px;
-  margin: 0 auto;
+.header {
+  padding: 0 48px 56px;
 }
 
 @media screen and (max-width: 1024px) {
-  .intro__container {
-    max-width: 928px;
+  .header {
+    padding-bottom: 48px;
   }
 }
 
-@media screen and (max-width: 928px) {
-  .intro__container {
+@media screen and (max-width: 952px) {
+  .header {
     padding-left: 24px;
     padding-right: 24px;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .intro__container {
+  .header {
     padding-left: 16px;
     padding-right: 16px;
   }
 }
+
+
+
+
+
+
